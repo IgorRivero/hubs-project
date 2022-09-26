@@ -18,11 +18,19 @@
     source bin/activate
 ### Now you can git clone this project: 
     git clone https://github.com/IgorRivero/hubs-project.git
+### Go to the hubs-env folder
+    cd hubs-project/hubs-venv
+### Now you can run the following command to install all requeriments
+    pip install -r requirements.txt
+### If you have visual studio code installed and well setup you can open the project only with this command:
+    code .
+### Now trought the explorer go to the notebook file located at "etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.ipynb"   
 
 # Important!
 ### To make sure the project will run, only check in the beggin path of the sql file is setted. A dynamic path was created, but is important to make sure, this way everithing will run.
-### sql file is located in: etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.sql
-### the script is a notebook file located in : etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.ipynb
+### sql file is located at: etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.sql
+### the script is a notebook file located at : etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.ipynb
+### If appears a error running the first cell, make sure JAVA is installed, because is necessary to run some spark dependences.
 
 
 ## To run this project first you have to make sure to have installed:

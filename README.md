@@ -1,4 +1,4 @@
-#Author: Paulo Igor Rivero
+# Author: Paulo Igor Rivero
 
 ## To run this project first you have to make sure to have installed:
 ## Python at least version 3.9.6
@@ -23,3 +23,4 @@
 # You can also create a virtual enviroment an run the pip install requirements.txt then everything you need will be installed.
 ## As a advice I'm dropping a link explain how to create a venv folder to install all the dependences
 ### https://docs.python.org/3/library/venv.html
+### https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/

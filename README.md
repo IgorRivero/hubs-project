@@ -10,14 +10,14 @@
 ### https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
 ### After you reach the folder you want to create a virtual enviroment project, you can use the following steps:
 ### The main commands are: 
-python3 -m venv env
+    python3 -m venv env
 ### where env is you virtual enviroment folder name
 ### Then enter the folder you created : 
-cd env
+    cd env
 ### Then activate the virtual env:
-source bin/activate
+    source bin/activate
 ### Now you can git clone this project: 
-git clone https://github.com/IgorRivero/hubs-project.git
+    git clone https://github.com/IgorRivero/hubs-project.git
 
 # Important!
 ### To make sure the project will run, only check in the beggin path of the sql file is setted. A dynamic path was created, but is important to make sure, this way everithing will run.

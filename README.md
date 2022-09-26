@@ -20,6 +20,6 @@
 ### the script is a notebook file located in : etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.ipynb
 
 
-#You can also create a virtual enviroment an run the pip install requirements.txt then everything you need will be installed.
+# You can also create a virtual enviroment an run the pip install requirements.txt then everything you need will be installed.
 ## As a advice I'm dropping a link explain how to create a venv folder to install all the dependences
 ### https://docs.python.org/3/library/venv.html

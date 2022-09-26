@@ -18,3 +18,8 @@
 ### To make sure the project will run, only check in the beggin path of the sql file is setted. A dynamic path was created, but is important to make sure, this way everithing will run.
 ### sql file is located in: etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.sql
 ### the script is a notebook file located in : etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.ipynb
+
+
+#You can also create a virtual enviroment an run the pip install requirements.txt then everything you need will be installed.
+## As a advice I'm dropping a link explain how to create a venv folder to install all the dependences
+### https://docs.python.org/3/library/venv.html

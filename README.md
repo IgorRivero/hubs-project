@@ -5,6 +5,8 @@
     You can find on this link https://www.python.org/downloads/release/python-396/
 ## Pyspark at least version 3.1.3
     You can find on this link https://spark.apache.org/news/3-1-3-released.html
+    and
+    https://sparkbyexamples.com/pyspark/install-pyspark-in-jupyter-on-mac-using-homebrew/
 ## Java version 8
     You can find on this link https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 ## Jupyter.

@@ -21,6 +21,7 @@
 
 
 # You can also create a virtual enviroment an run the pip install requirements.txt then everything you need will be installed.
+## You can first create a virtual enviroment before clone this repo.
 ## As a advice I'm dropping a link explain how to create a venv folder to install all the dependences
 ### https://docs.python.org/3/library/venv.html
 ### https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/

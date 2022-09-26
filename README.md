@@ -14,7 +14,7 @@
 ### runned in a docker image using jupyter notebook and also ran it in a virtual enviroment created with python 3.9.+ , pyspark 3.1.+ , Java 8 and Jupyter. 
 ### Using Visual Studio Code. 
 
-#Important!
-### To make sure the project will run, only check in the beggin path of the sql file is setted.
+# Important!
+### To make sure the project will run, only check in the beggin path of the sql file is setted. A dynamic path was created, but is important to make sure, this way everithing will run.
 ### sql file is located in: etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.sql
-### the script is a natobook file located in : etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.ipynb
+### the script is a notebook file located in : etc/jupyter/nbconfig/notebook.d/hubs_files/hubs_events.ipynb
